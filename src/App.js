@@ -1514,7 +1514,7 @@ const Portfolio = () => {
                             border: '1px solid #7C2A62' 
                           }}>
                             <div style={{ fontSize: isMobile ? (isSmallMobile ? '0.9rem' : '1rem') : '1.2rem' }}>💼</div>
-                            <div style={{ fontWeight: 700, color: '#7C2A62', fontSize: isMobile ? (isSmallMobile ? '0.8rem' : '0.85rem') : '1rem' }}>6+</div>
+                            <div style={{ fontWeight: 700, color: '#7C2A62', fontSize: isMobile ? (isSmallMobile ? '0.8rem' : '0.85rem') : '1rem' }}>7+</div>
                             <div style={{ fontSize: isMobile ? (isSmallMobile ? '0.55rem' : '0.6rem') : '.65rem' }}>Months Experience</div>
                           </div>
                           <div style={{ 
